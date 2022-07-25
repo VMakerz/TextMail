@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<hl>Hello World</hl>
+<g>This website is hosted on idk</g>
+</body>
+</html>
